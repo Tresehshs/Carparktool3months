@@ -21,9 +21,9 @@ pkg install git
 
 pkg install python-pip
 
-git clone https://github.com/Tresehshs/Carparktool.git
+git clone https://github.com/Tresehshs/Carparktool3months.git
 
-cd Carparktool
+cd Carparktool3months
 
 git pull
 
